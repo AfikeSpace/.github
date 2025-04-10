@@ -12,12 +12,12 @@ AfrikeSpace is split into multiple focused repos so teams can move fast and inde
 
 | Repo | Description |
 |------|-------------|
-| [`afrikespace-frontend`](https://github.com/afrikespace-org/afrikespace-frontend) | React-based web application |
-| [`afrikespace-mobile`](https://github.com/afrikespace-org/afrikespace-mobile) | Mobile app using React Native + Expo |
-| [`afrikespace-backend`](https://github.com/afrikespace-org/afrikespace-backend) | Node.js API and backend services |
-| [`afrikespace-design`](https://github.com/afrikespace-org/afrikespace-design) | UI/UX assets, Figma links, branding |
-| [`afrikespace-docs`](https://github.com/afrikespace-org/afrikespace-docs) | Technical docs, onboarding, and API specs |
-| [`afrikespace-devops`](https://github.com/afrikespace-org/afrikespace-devops) | CI/CD, Docker, Infra setup, secrets management |
+| [`afrikespace-frontend`](https://github.com/afrikespace-org/frontend) | React-based web application |
+| [`afrikespace-mobile`](https://github.com/afrikespace-org/mobile) | Mobile app using React Native + Expo |
+| [`afrikespace-backend`](https://github.com/afrikespace-org/backend) | Node.js API and backend services |
+| [`afrikespace-design`](https://github.com/afrikespace-org/design) | UI/UX assets, Figma links, branding |
+| [`afrikespace-docs`](https://github.com/afrikespace-org/docs) | Technical docs, onboarding, and API specs |
+| [`afrikespace-devops`](https://github.com/afrikespace-org/evops) | CI/CD, Docker, Infra setup, secrets management |
 
 ---
 
