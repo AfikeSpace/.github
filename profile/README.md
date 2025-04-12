@@ -12,12 +12,12 @@ AfrikeSpace is split into multiple focused repos so teams can move fast and inde
 
 | Repo | Description |
 |------|-------------|
-| [`afrikespace-frontend`](https://github.com/AfrikeSpace/frontend) | React-based web application |
-| [`afrikespace-mobile`](https://github.com/AfrikeSpace/mobile) | Mobile app using React Native + Expo |
-| [`afrikespace-backend`](https://github.com/AfrikeSpace/backend) | Node.js API and backend services |
-| [`afrikespace-design`](https://github.com/AfrikeSpace/design) | UI/UX assets, Figma links, branding |
-| [`afrikespace-docs`](https://github.com/AfrikeSpace/docs) | Technical docs, onboarding, and API specs |
-| [`afrikespace-devops`](https://github.com/AfrikeSpace/devops) | CI/CD, Docker, Infra setup, secrets management |
+| [`afrikespace-frontend`](https://github.com/AfikeSpace/frontend) | React-based web application |
+| [`afrikespace-mobile`](https://github.com/AfikeSpace/mobile) | Mobile app using React Native + Expo |
+| [`afrikespace-backend`](https://github.com/AfikeSpace/backend) | Node.js API and backend services |
+| [`afrikespace-design`](https://github.com/AfikeSpace/design) | UI/UX assets, Figma links, branding |
+| [`afrikespace-docs`](https://github.com/AfikeSpace/docs) | Technical docs, onboarding, and API specs |
+| [`afrikespace-devops`](https://github.com/AfikeSpace/devops) | CI/CD, Docker, Infra setup, secrets management |
 
 ---
 
