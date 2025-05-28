@@ -1,4 +1,4 @@
-# 🌍 AfrikeSpace
+# 🌍 Afrikespace
 
 **Reimagining Africa’s Future — One Line of Code at a Time.**
 
